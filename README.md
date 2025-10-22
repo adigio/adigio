@@ -31,8 +31,9 @@ More featured projects coming soon!
 ## 🎸🚲 Outside the code
 
 Music is part of who I am.
-I always have my acoustic guitar nearby, and I love composing my own music.  
-A lifelong dream is to own a Telecaster or Stratocaster, and definitely recover my bass. Soon!
+I always have my acoustic guitar nearby, and I love composing my own music.
+A lifelong dream is to own a Telecaster or a Stratocaster — and maybe finally get my bass back. Soon!
+
 I also love cycling - I just wish I had more time to do it.
 
 ## 🌐 Let's Connect
