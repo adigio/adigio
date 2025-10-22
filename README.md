@@ -23,9 +23,10 @@ I build software for the web, mobile, and beyond — always exploring how to des
 
 ## 🏆 Featured Project
 
-I’m especially proud of **Cuoco**, my final project for the Web Development Tecnicature at UNLaM, with a great team!.  
-Cuoco showcases best practices Domain-Driven Design, SOLID principles, thorough testing, and Clean Architecture.
-More featured projects soon!
+I’m especially proud of Cuoco, my final project for the Web Development Technicature at UNLaM, built together with an amazing team.
+Cuoco showcases best practices such as Domain-Driven Design, SOLID principles, comprehensive testing, and Clean Architecture.
+
+More featured projects coming soon!
 
 ## 🎸🚲 Outside the code
 
