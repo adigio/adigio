@@ -1,12 +1,17 @@
-# 👋 Hi, I'm Alan Di Giovanni
+# Hey there, Alan Di Giovanni here! 👋  (but you can call me... Alan)
 
-I'm a passionate Full Stack Developer from Buenos Aires, Argentina. At 34, I'm proud to be a dad to my wonderful daughter Hada. I love building things—whether it's web apps or music compositions.
+
+I’m a Software Engineer from Buenos Aires, Argentina.  
+At 34, I’m proud to be a dad to my amazing daughter, Hada 👧 — she’s my daily reminder of why I love creating things that matter.  
+
+I build software for the web, mobile, and beyond — always exploring how to design systems that are clean, scalable, and meaningful.  
 
 ## 👨‍💻 About Me
 
-- **Full Stack Developer / Software Engineer**
-- Always learning and improving my skills
-- Enthusiastic about best practices like DDD, SOLID, testing, and clean architecture
+- **Software Engineer** with a full-stack background  
+- Passionate about **architecture, design patterns, and best practices**  
+- Always learning, improving, and sharing knowledge  
+- Advocate of **DDD**, **SOLID**, **testing**, and **clean architecture**
 
 ## 🛠️ Tech Stack
 
@@ -18,28 +23,24 @@ I'm a passionate Full Stack Developer from Buenos Aires, Argentina. At 34, I'm p
 
 ## 🏆 Featured Project
 
-I’m especially proud of **Cuoco**, my final project for the Web Development Tecnicature at UNLaM.  
-Cuoco showcases best practices—Domain-Driven Design, SOLID principles, thorough testing, and Clean Architecture.
+I’m especially proud of **Cuoco**, my final project for the Web Development Tecnicature at UNLaM, with a great team!.  
+Cuoco showcases best practices Domain-Driven Design, SOLID principles, thorough testing, and Clean Architecture.
 
-## 🎸 Interests & Hobbies
+## 🎸🚲 Outside the code
 
-Music is my daily companion.  
-I always have my acoustic guitar by my side, and I love composing my own music.  
-A lifelong dream is to own a Telecaster or Stratocaster—and a bass. Maybe someday!
+Music is part of who I am.
+I always have my acoustic guitar nearby, and I love composing my own music.  
+A lifelong dream is to own a Telecaster or Stratocaster, and definitely recover my bass. Soon!
+I also love cycling - I just wish I had more time to do it.
 
-## 🌐 Find Me Online
+## 🌐 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/ardigiovanni/)
 - Instagram: [@ardigio](https://instagram.com/ardigio)
 - Website: [alandigiovanni.com.ar](https://www.alandigiovanni.com.ar)
 
-## 📬 Contact
-
-Not looking for new opportunities right now, but feel free to reach out on LinkedIn or Instagram!
-
 ---
 
 Thanks for stopping by! 🚀
-
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adigio&show_icons=true&locale=en&layout=compact" alt="adigio" /></p>
